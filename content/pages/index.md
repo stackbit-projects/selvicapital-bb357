@@ -19,7 +19,7 @@ sections:
       Renters can find the latest listings and help your fellow renters by
       reviewing your landlords and management companies.
     actions:
-      - label: Contact Me
+      - label: Register
         url: /contact
         style: button
   - section_id: recent-posts
