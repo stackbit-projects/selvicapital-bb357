@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Selvi Capital
+    title: Rent Pittsburgh
     content: |
       Find rentals in the Pittsburgh area
   - section_id: about
