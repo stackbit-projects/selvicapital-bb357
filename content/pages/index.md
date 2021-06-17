@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Rent Pittsburgh
-    content: |
-      Find rentals in the Pittsburgh area
+    content: >
+      Navigate the Pittsburgh rental market by searching rental listings and
+      reviews of landlords and management companies.
   - section_id: about
     type: section_content
     title: About
