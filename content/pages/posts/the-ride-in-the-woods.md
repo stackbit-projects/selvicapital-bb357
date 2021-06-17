@@ -1,5 +1,5 @@
 ---
-title: The Ride In The Woods
+title: 190 Woodside Road
 subtitle: A cautionary tale about riding
 excerpt: >-
   The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
