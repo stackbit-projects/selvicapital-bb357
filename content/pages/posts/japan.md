@@ -1,10 +1,6 @@
 ---
 title: 6 Mountour Rd
-excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
+excerpt: '3 Bed 1 Bath, $1200 / month'
 date: '2019-03-24'
 thumb_img_path: /images/house2.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
