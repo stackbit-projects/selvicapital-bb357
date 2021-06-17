@@ -27,7 +27,7 @@ sections:
     title: Recent LISTINGS
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: View All listings
         url: blog/index.html
         style: button
 seo:
