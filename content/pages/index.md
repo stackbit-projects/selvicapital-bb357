@@ -10,7 +10,7 @@ sections:
       reviews of landlords and management companies.
   - section_id: about
     type: section_content
-    title: About
+    title: Brought to you by selvi capital
     content: >
       Are you an owner or management company? Create a profile and list here for
       free.
