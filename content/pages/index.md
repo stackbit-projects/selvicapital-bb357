@@ -12,8 +12,12 @@ sections:
     type: section_content
     title: About
     content: >
-      Search for listings here or list your place for free. Review your current
-      landlord or management company.
+      Are you an owner or management company? Create a profile and list here for
+      free.
+
+
+      Renters can find the latest listings and help your fellow renters by
+      reviewing your landlords and management companies.
     actions:
       - label: Contact Me
         url: /contact
